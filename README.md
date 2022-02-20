@@ -4,7 +4,9 @@
 研究显示股票过去12个月到过去1个月（t-12，t-1）的收益能预测未来一个月的收益。买过去一年收益高的股票组合能跑赢收益低的股票组合。
 
 Momentum_testing.ipynb 为回测代码
+
 IOZ_Monthly_Holding_2010_2021.csv 为过去10年ASX200股指成分列表
+
 2022_02_08_Updated_ASX200_Prices_2006_2021_Complete.csv 为2006-2021，ASX200现在以及过去10年成分股每日股价
 
 
